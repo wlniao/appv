@@ -1,0 +1,14 @@
+/*page, view, div {display: flex;}page {min-height: 100%;}
+.content {
+	width: 150px;
+	display: block;
+}*/
+body {
+	background-color: #FCFCFC;
+}
+section.yd-scrollview {
+	background-color: #F5F5F5;
+}
+.hairline .yd-scrollview, .ios .yd-scrollview {
+    margin-top: 0;
+}
